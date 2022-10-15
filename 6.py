@@ -1,7 +1,6 @@
-N=int(input())
+N = int(input())
 pupils = []
 MARKS_COUNT = 3
-
 
 for _ in range(N):
     pupil = input().split()
